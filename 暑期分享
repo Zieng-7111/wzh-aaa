@@ -1,0 +1,352 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="王子恒暑期文化实践与艺术管理观察分享">
+  <title>四座城市里的艺术管理观察</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='8' fill='%23081011'/%3E%3Cpath d='M15 42c8-4 8-22 17-22s9 18 17 22' fill='none' stroke='%23e7ff6f' stroke-width='5' stroke-linecap='round'/%3E%3Ccircle cx='32' cy='21' r='4' fill='%23ff785a'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar" aria-label="演示控制栏">
+    <a class="brand" href="#s1" aria-label="回到封面">WANG ZIHENG <span>FIELD NOTES 2026</span></a>
+    <nav class="chapters" aria-label="章节导航">
+      <button data-go="2">起点</button>
+      <button data-go="3">禹州</button>
+      <button data-go="6">上海</button>
+      <button data-go="9">香港</button>
+      <button data-go="11">广州</button>
+      <button data-go="13">方法</button>
+    </nav>
+    <div class="tools">
+      <button id="galleryButton" title="完整照片与视频 G" aria-label="打开完整照片与视频素材库">全部素材</button>
+      <button id="notesButton" title="讲稿提示 N" aria-label="显示当前页讲稿">讲稿</button>
+      <button id="fullscreenButton" title="全屏 F" aria-label="进入全屏">全屏</button>
+      <span id="counter" aria-live="polite">01 / 16</span>
+    </div>
+  </header>
+
+  <main id="deck" aria-label="四座城市里的艺术管理观察">
+    <section id="s1" class="slide cover is-active" data-title="封面" data-chapter="起点" data-time="45">
+      <img class="media kenburns" src="assets/images/yuzhou-roofs.jpg" alt="阴天中的神垕古镇屋顶">
+      <div class="wash ink"></div>
+      <div class="cover-orbit" aria-hidden="true"></div>
+      <div class="content cover-copy">
+        <p class="eyebrow">新生分享会 2026</p>
+        <h1>四座城市里的<br>艺术管理观察</h1>
+        <p class="lede">禹州的窑火、上海的机器人、香港的空间与广州的日常</p>
+        <p class="byline">王子恒　2024级艺术管理</p>
+      </div>
+      <button class="scroll-cue" data-go="2" aria-label="进入下一页"><span></span>向下开始</button>
+      <aside class="notes">大家晚上好，我是王子恒。今天不只想汇报两份暑假作业，还想聊聊它们怎样改变了我看城市、看展览和看专业的方式。我的暑假从家乡禹州开始，又去了上海、香港和广州。走完之后，我发现同样是艺术，在不同城市里会长成完全不同的样子。</aside>
+    </section>
+
+    <section id="s2" class="slide" data-title="为什么从钧瓷开始" data-chapter="起点" data-time="50">
+      <div class="solid-field field-violet"></div>
+      <img class="floating-object object-poster" src="assets/images/poster.jpg" alt="原创海报 入窑一色出窑万彩">
+      <div class="content split-copy">
+        <p class="eyebrow">01 / 起点</p>
+        <h2>为什么从钧瓷开始</h2>
+        <p class="statement">一次期末非遗作业，让“钧瓷”从课题变成了我观察现实的入口。</p>
+        <div class="two-lines" aria-label="两条实践线索">
+          <p><b>第一条线</b><span>期末非遗作业延伸到原创海报与专业答辩</span></p>
+          <p><b>第二条线</b><span>暑期实地寻访延伸到博物馆、古镇与城市文旅</span></p>
+        </div>
+      </div>
+      <aside class="notes">我选择钧瓷并不是临时起意。期末时我做过非遗方向的主科作业，暑假就想把网络资料和真实现场接起来。它最后形成了两条线：一条是作品创作，一条是实地寻访。也正是从这里开始，我出现了一种“职业病”，到了任何地方都会看场馆怎样组织内容、观众怎样移动、文化怎样转化成消费和记忆。</aside>
+    </section>
+
+    <section id="s3" class="slide" data-title="禹州文化寻访" data-chapter="禹州" data-time="55">
+      <img class="media" src="assets/images/yuzhou-museum.jpg" alt="禹州博物馆展厅">
+      <div class="wash left-heavy"></div>
+      <div class="content left-copy">
+        <p class="eyebrow">02 / 禹州</p>
+        <h2>文化寻访路线</h2>
+        <p class="statement">禹州站、禹州博物馆、钧瓷博物馆与钧官窑址、神垕窑口、神垕古镇。</p>
+        <p class="caption">2026年8月8日　阴</p>
+        <a class="text-link" href="https://zieng-7111.github.io/Yuzhou-Kiln-Fire-Culture-Map/" target="_blank" rel="noreferrer">打开完整文化地图</a>
+      </div>
+      <img class="route-map" src="assets/images/yuzhou-route.png" alt="禹州钧瓷文化寻访路线图">
+      <aside class="notes">第一项作业是一条家乡文化寻访路线。当天是8月8日，天气阴。我从禹州站出发，先进入城市历史，再到钧瓷博物馆和钧官窑址理解器物与烧制，最后进入神垕的窑口、市场和老街，看钧瓷怎样继续活在当地人的生产和生活里。右侧路线可以点击网页查看完整照片和视频。</aside>
+    </section>
+
+    <section id="s4" class="slide" data-title="非遗如何进入生活" data-chapter="禹州" data-time="55">
+      <div class="triptych" aria-label="神垕古镇的三种文化场景">
+        <figure><img src="assets/images/yuzhou-kiln.jpg" alt="神垕窑口"><figcaption>生产</figcaption></figure>
+        <figure><img src="assets/images/yuzhou-market.jpg" alt="神垕市场"><figcaption>交易</figcaption></figure>
+        <figure><img src="assets/images/yuzhou-workshop.jpg" alt="钧瓷工作室"><figcaption>体验</figcaption></figure>
+      </div>
+    <section id="s4" class="slide album-slide" data-title="非遗如何进入生活" data-chapter="禹州" data-time="55">
+      <div class="story-album" data-story-cities="禹州" aria-label="禹州完整照片记录"></div>
+      <div class="wash bottom-heavy"></div>
+      <div class="content bottom-copy">
+        <p class="eyebrow">03 / 活态文化</p>
+        <h2>非遗在现场继续发生</h2>
+        <p class="statement">窑口、店铺、饮食和 DIY 工坊共同组成文化生态。展品之外，生产关系也值得观察。</p>
+      </div>
+      <aside class="notes">到了神垕以后，我最明显的感受是，非遗不只在展柜里。窑口负责生产，市场和小店完成交易，DIY工坊让游客参与，餐饮和街区又延长停留时间。对艺术管理来说，这些并不是互不相关的项目，而是一套文化生态。它既影响钧瓷本身怎样延续，也影响城市怎样形成文旅吸引力。</aside>
+    </section>
+
+    <section id="s5" class="slide" data-title="职业病开始出现" data-chapter="禹州" data-time="45">
+      <img class="media" src="assets/images/daily-plate.jpg" alt="餐桌上的釉色盘子">
+      <div class="wash right-heavy"></div>
+      <div class="content right-copy">
+        <p class="eyebrow">04 / 观察习惯</p>
+        <h2>离开展厅以后</h2>
+        <blockquote>吃饭看到盘子的釉色，我会下意识想到钧瓷。</blockquote>
+        <p class="statement small">所谓“职业病”，就是把课堂里形成的问题带进日常生活。</p>
+      </div>
+      <button class="reveal-button" data-reveal="vase-detail">查看我在馆里停下来的原因</button>
+      <div id="vase-detail" class="reveal-panel" hidden>
+        <img src="assets/images/return-vase.jpg" alt="纪念香港回归的豫象宝瓶">
+        <p>《豫象宝瓶》的“1997”让我把器物、纪念主题与香港回归联系到了一起。</p>
+      </div>
+      <aside class="notes">实地看过以后，我发现自己的观察会自动延续。比如吃饭时看到盘子釉色，会想到钧瓷的窑变；去上海博物馆看瓷器时，也会先寻找钧瓷。现场还让我对细节更敏感。我在禹州看到《豫象宝瓶》时，因为“1997”和香港元素停了下来，它让我意识到一件工艺品也可以承担公共记忆。</aside>
+    </section>
+
+    <section id="s6" class="slide" data-title="上海的速度" data-chapter="上海" data-time="50">
+      <img class="media" src="assets/images/agibot-sign.jpg" alt="上海智元公司外部标识">
+    <section id="s6" class="slide album-slide" data-title="上海的速度" data-chapter="上海" data-time="50">
+      <div class="story-album" data-story-cities="上海" data-story-start="上海智元现场标识" aria-label="上海完整照片记录"></div>
+      <div class="wash ink"></div>
+      <div class="content center-copy">
+        <p class="eyebrow">05 / 上海</p>
+        <h2>技术进入真实场景</h2>
+        <p class="statement narrow">从舞台表演到折衣、调饮和公共互动，我看到机器人开始从“被观看”走向“参与动作”。</p>
+      </div>
+      <aside class="notes">上海给我的感受是快，而且这种快不是表面的高楼，而是新技术迅速进入真实场景。我去了智元，看到了不同形态的小机器人。它们会折衣服、调饮、互动，也会进入表演。这里我不展开具体技术过程，我更关心机器人一旦进入公共空间，观众怎样理解它，动作怎样被设计，体验怎样被组织。</aside>
+    </section>
+
+    <section id="s7" class="slide video-slide" data-title="机器人动作实验" data-chapter="上海" data-time="75">
+      <div class="video-pair">
+        <figure>
+          <video src="assets/video/robot-fold.mp4" muted loop playsinline preload="metadata"></video>
+          <figcaption>折衣</figcaption>
+        </figure>
+        <figure>
+          <video src="assets/video/robot-interact.mp4" muted loop playsinline preload="metadata"></video>
+          <figcaption>互动</figcaption>
+        </figure>
+      </div>
+      <div class="content video-copy">
+        <p class="eyebrow">06 / 动作与观看</p>
+        <h2>技术本身还不是作品</h2>
+        <p class="statement">动作、节奏、空间与观众关系，决定技术能否成为一次完整的艺术体验。</p>
+      </div>
+      <button class="media-toggle" aria-label="播放或暂停本页视频">暂停视频</button>
+      <aside class="notes">大家可以先看十几秒。折衣和互动看起来是功能展示，但如果放进舞台或展览，问题马上会变化：观众从哪里看，机器动作有没有节奏，人与机器如何保持关系，现场发生意外时怎样处理。我暑假也参与过一次人机协同的艺术实验，这段经历让我更确定，艺术管理者要把创意转化成可执行的现场。具体实现方法我今天不展开。</aside>
+    </section>
+
+    <section id="s8" class="slide poll-slide" data-title="机器人是什么" data-chapter="上海" data-time="65">
+      <video class="media" src="assets/video/robot-performance.mp4" muted loop playsinline preload="metadata"></video>
+      <div class="wash ink"></div>
+      <div class="content poll-copy">
+        <p class="eyebrow">07 / 现场互动</p>
+        <h2>机器人走上舞台以后</h2>
+        <p class="question">你觉得它更接近哪一种身份？</p>
+        <div class="poll" role="group" aria-label="机器人身份投票">
+          <button data-vote="tool"><span>01</span>工具</button>
+          <button data-vote="performer"><span>02</span>表演者</button>
+          <button data-vote="art"><span>03</span>艺术作品</button>
+        </div>
+        <p id="pollResult" class="poll-result" aria-live="polite">点击选项，看看现场选择</p>
+      </div>
+      <aside class="notes">这一页我想请大家直接选。机器人走上舞台以后，它更像工具、表演者，还是艺术作品？没有标准答案。这个问题重要，是因为不同答案会改变策划方式。把它当工具，我们关注稳定和效率；把它当表演者，我们要考虑角色、排练和观众期待；把它当作品，我们又要讨论作者、媒介和意义。</aside>
+    </section>
+
+    <section id="s9" class="slide" data-title="香港的大馆" data-chapter="香港" data-time="60">
+      <img class="media" src="assets/images/tai-kwun-auditorium.jpg" alt="香港大馆内的公共活动空间">
+      <div class="wash left-heavy"></div>
+      <div class="content left-copy">
+        <p class="eyebrow">08 / 香港</p>
+        <h2>历史建筑成为文化场所</h2>
+        <p class="statement">大馆把前中区警署、中央裁判司署和域多利监狱活化为古迹及艺术馆。</p>
+        <a class="source-link" href="https://www.taikwun.hk/zh/taikwun/story" target="_blank" rel="noreferrer">公开资料：大馆故事</a>
+      </div>
+      <aside class="notes">香港最吸引我的是艺术和城市生活贴得很近。大馆是一个很好的例子。它原来包含警署、裁判司署和监狱，活化后成为古迹及艺术馆。我的同学曾把这里选作策展作业地点，所以我一直很好奇。真正进入空间后，我发现历史并没有被简单抹平，新建筑、展览、表演和公共活动都在与旧结构对话。</aside>
+    </section>
+
+    <section id="s10" class="slide" data-title="香港的空间精度" data-chapter="香港" data-time="55">
+      <div class="mosaic hongkong-mosaic">
+        <img src="assets/images/tai-kwun-installation.jpg" alt="香港大馆当代艺术装置">
+        <img src="assets/images/hk-red-stairs.jpg" alt="香港红色公共楼梯空间">
+        <img src="assets/images/brochures.jpg" alt="从香港艺术场馆收集的册子">
+      </div>
+    <section id="s10" class="slide album-slide" data-title="香港的空间精度" data-chapter="香港" data-time="55">
+      <div class="story-album" data-story-cities="香港" data-story-start="大馆红色导览墙" aria-label="香港完整照片记录"></div>
+      <div class="content upper-copy">
+        <p class="eyebrow">09 / 空间与密度</p>
+        <h2>寸土寸金，也能留下文化空间</h2>
+        <p class="statement">动线、材料、公共活动与传播册页都经过精细安排。香港的艺术氛围呈现出高密度、国际化与城市历史并置的特点。</p>
+      </div>
+      <aside class="notes">香港的另一个感受是精确。因为空间昂贵，每一处动线、材料和功能都要仔细安排。艺术并不只发生在展厅里，楼梯、旧监仓、广场、册页和城市天际线都参与了叙事。我最后带回了一堆宣传册，这也是我的“职业病”：我会看它们怎样写标题、安排信息、把一次参观延伸到离场以后。</aside>
+    </section>
+
+    <section id="s11" class="slide video-slide" data-title="广州的沉浸与互动" data-chapter="广州" data-time="70">
+      <div class="video-wall">
+        <video src="assets/video/guangzhou-screen.mp4" muted loop playsinline preload="metadata"></video>
+        <video src="assets/video/guangzhou-interactive.mp4" muted loop playsinline preload="metadata"></video>
+        <video src="assets/video/guangzhou-immersive.mp4" muted loop playsinline preload="metadata"></video>
+      </div>
+      <div class="wash bottom-heavy"></div>
+      <div class="content bottom-copy">
+        <p class="eyebrow">10 / 广州</p>
+        <h2>展览更愿意让观众“进入”</h2>
+        <p class="statement">互动装置和沉浸影像降低了理解门槛，也让观看变成身体参与。</p>
+        <a class="source-link" href="https://www.gdmoa.org/" target="_blank" rel="noreferrer">公开资料：广东美术馆</a>
+      </div>
+      <button class="media-toggle" aria-label="播放或暂停本页视频">暂停视频</button>
+      <aside class="notes">广州给我的印象比香港更松弛、更日常。看展时，我注意到不少互动和沉浸式内容。观众不只站在作品外面理解，而是通过身体移动、屏幕反馈和空间声音进入作品。这种方式降低了当代艺术的理解门槛，但也提醒策展人，不能只追求“好拍”，互动必须服务于作品本身。</aside>
+    </section>
+
+    <section id="s12" class="slide" data-title="艺术藏在日常里" data-chapter="广州" data-time="45">
+      <img class="media" src="assets/images/drink-design.jpg" alt="饮品包装上的传统纹样设计">
+    <section id="s12" class="slide album-slide" data-title="艺术藏在日常里" data-chapter="广州" data-time="45">
+      <div class="story-album" data-story-cities="广州,哈尔滨" data-story-start="广州日常消费中的视觉设计一" aria-label="广州与哈尔滨完整照片记录"></div>
+      <div class="wash right-heavy"></div>
+      <div class="content right-copy">
+        <p class="eyebrow">11 / 日常设计</p>
+        <h2>艺术也藏在消费之后</h2>
+        <p class="statement">包装把传统图像带进日常，但一次性消费也让设计迅速变成废弃物。</p>
+        <button class="reveal-button easter" data-reveal="harbin-detail">还有一个哈尔滨彩蛋</button>
+      </div>
+      <div id="harbin-detail" class="reveal-panel green-room" hidden>
+        <img src="assets/images/harbin-easter-egg.jpg" alt="哈尔滨中华巴洛克空间中的绿色艺术化卫生间">
+        <p>回到哈尔滨，我仍会观察最普通的公共空间怎样制造记忆点。</p>
+      </div>
+      <aside class="notes">广州让我重新注意日常设计。比如一杯饮品的包装会引用传统图像，短时间里形成文化识别，但喝完以后它也很快成为垃圾。艺术管理不能只看设计好不好看，也要考虑使用周期和公共行为。点一下还有一个哈尔滨的小彩蛋：连中华巴洛克里的卫生间，我都会停下来观察空间怎么制造记忆点。</aside>
+    </section>
+
+    <section id="s13" class="slide" data-title="城市改变观看方式" data-chapter="方法" data-time="65">
+      <div class="city-axis" aria-label="五座城市的文化节奏比较">
+        <div class="axis-line"></div>
+        <button style="--x:8%;--y:64%" data-city="禹州" data-text="慢、手艺、乡野与活态生产">禹州</button>
+        <button style="--x:28%;--y:38%" data-city="哈尔滨" data-text="历史街区、音乐文化与季节性旅游">哈尔滨</button>
+        <button style="--x:51%;--y:24%" data-city="广州" data-text="松弛、日常、互动与岭南生活">广州</button>
+        <button style="--x:73%;--y:52%" data-city="香港" data-text="高密度、精细空间与国际视觉文化">香港</button>
+        <button style="--x:92%;--y:18%" data-city="上海" data-text="速度、场馆系统与新技术进入现实">上海</button>
+        <span class="axis-label start">慢 / 求稳</span>
+        <span class="axis-label end">快 / 求新</span>
+      </div>
+      <div class="content upper-copy">
+        <p class="eyebrow">12 / 城市选择</p>
+        <h2>城市会改变观看方式</h2>
+        <p id="cityText" class="statement">点击城市，看我留下的关键词。</p>
+      </div>
+      <aside class="notes">旅行真正影响我的地方，是让我看到城市选择会塑造一个人的观看方式。禹州让我看到慢和手艺，哈尔滨让我注意历史街区与季节文化，广州把艺术放进日常，香港在有限空间里追求精度，上海则不断把新技术推向现实。我们未来选择在哪座城市学习、实习和工作，也是在选择一种节奏和价值取向。</aside>
+    </section>
+
+    <section id="s14" class="slide" data-title="艺术管理的方法" data-chapter="方法" data-time="70">
+      <div class="method-map" aria-label="艺术管理多学科方法图">
+        <div class="time-line"><span>古</span><b></b><span>新 / 热点</span></div>
+        <div class="discipline d1">艺术</div>
+        <div class="discipline d2">法律</div>
+        <div class="discipline d3">技术</div>
+        <div class="discipline d4">传播</div>
+        <div class="discipline d5">人际</div>
+        <div class="core">艺术<br>管理者</div>
+      </div>
+      <div class="content left-copy method-copy">
+        <p class="eyebrow">13 / 方法</p>
+        <h2>从 idea 到可执行现场</h2>
+        <p class="statement">艺术家完成创作。艺术管理者还要判断目标、资源、规则和观众，设计作品进入现实的方式。</p>
+      </div>
+      <aside class="notes">这些经历最后绕回艺术管理的方法。艺术家把想法创作成作品，艺术管理者则要让作品进入现实。我们要判断目标、资源、法律边界、技术条件、传播方式和观众关系。所以这个专业确实什么都要了解一点，既要懂传统，也要追踪新的媒介和热点。关键不是显得什么都会，而是知道什么时候需要哪种知识，并把不同的人组织起来。</aside>
+    </section>
+
+    <section id="s15" class="slide" data-title="两份作业的变化" data-chapter="方法" data-time="55">
+      <div class="works-comparison">
+        <a href="https://zieng-7111.github.io/Yuzhou-Kiln-Fire-Culture-Map/" target="_blank" rel="noreferrer" class="work work-map">
+          <img src="assets/images/map-qr.png" alt="禹州钧瓷文化地图二维码">
+          <div><span>作业一</span><h3>家乡文化地图</h3><p>路线、照片、视频与现场记录</p></div>
+        </a>
+        <div class="work work-poster">
+          <img src="assets/images/poster.jpg" alt="原创海报 入窑一色出窑万彩">
+          <div><span>作业二</span><h3>原创视觉作品</h3><p>把现场经验提炼成抽象视觉</p></div>
+        </div>
+      </div>
+      <div class="content upper-copy works-copy">
+        <p class="eyebrow">14 / 输出</p>
+        <h2>记录之后，还要重新组织</h2>
+      </div>
+      <aside class="notes">回看两份暑假作业，第一份做的是记录：路线、照片、视频和文化故事。第二份做的是转化：我把钧瓷釉面、窑火轨迹和器型轮廓提炼成一张抽象海报。对我来说，艺术管理也包含这种能力。我们不一定亲自完成所有艺术创作，但要能从大量信息里找到主线，再选择合适的形式让别人愿意看、看得懂、记得住。</aside>
+    </section>
+
+    <section id="s16" class="slide end-slide" data-title="给新生的话" data-chapter="方法" data-time="60">
+      <img class="media" src="assets/images/hk-skyline.jpg" alt="阴天下的香港城市天际线">
+      <div class="wash ink"></div>
+      <div class="content end-copy">
+        <p class="eyebrow">15 / 给新生的话</p>
+        <h2>有针对地去看</h2>
+        <p class="statement narrow">大学里哪怕穷游，也可以多去感受。重新走进小时候去过的城市，问问自己：这里的文化如何发生，我适合怎样的节奏？</p>
+        <blockquote>关关难过关关过，方法总比困难多。</blockquote>
+        <div class="end-links">
+          <button data-go="1">重新开始</button>
+          <button id="endGalleryButton">查看全部素材</button>
+          <button id="sourcesButton">资料来源</button>
+        </div>
+      </div>
+      <aside class="notes">最后想把这句话送给学弟学妹：把握大学，哪怕预算有限，也多去不同地方感受。即使小时候去过，也可以带着问题重新去看。看文化和艺术怎样发展，看城市是快还是慢，是高楼还是乡野，也看自己更向往求稳还是不断追求新。专业和城市都不要过早设限。关关难过关关过，方法总比困难多。谢谢大家。</aside>
+    </section>
+  </main>
+
+  <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
+  <div id="dots" class="dots" aria-label="页面导航"></div>
+
+  <dialog id="notesDialog" class="notes-dialog">
+    <div class="dialog-head"><b>当前页讲稿</b><button data-close="notesDialog" aria-label="关闭讲稿">关闭</button></div>
+    <div id="notesContent" class="notes-content"></div>
+  </dialog>
+
+  <dialog id="sourcesDialog" class="sources-dialog">
+    <div class="dialog-head"><b>公开资料与延伸阅读</b><button data-close="sourcesDialog" aria-label="关闭资料来源">关闭</button></div>
+    <div class="sources-list">
+      <a href="https://www.agibot.com.cn/about_Zhiyuan" target="_blank" rel="noreferrer"><span>上海</span>智元机器人官方介绍</a>
+      <a href="https://www.shanghaimuseum.cn/mu/frontend/pg/m/infomation/about" target="_blank" rel="noreferrer"><span>上海</span>上海博物馆与东馆介绍</a>
+      <a href="https://www.taikwun.hk/zh/taikwun/story" target="_blank" rel="noreferrer"><span>香港</span>大馆故事与古迹活化</a>
+      <a href="https://www.mplus.org.hk/sc/about/" target="_blank" rel="noreferrer"><span>香港</span>M+视觉文化博物馆</a>
+      <a href="https://www.gdmoa.org/" target="_blank" rel="noreferrer"><span>广州</span>广东美术馆</a>
+      <p>现场照片与视频由王子恒拍摄、整理。部分场馆资料图用于课堂学习分享，页面内已标明对应机构。</p>
+    </div>
+  </dialog>
+
+  <dialog id="galleryDialog" class="gallery-dialog">
+    <div class="gallery-shell">
+      <div class="dialog-head gallery-head">
+        <div>
+          <b>完整现场素材</b>
+          <span id="galleryCount">68 张照片 / 18 段视频</span>
+        </div>
+        <button data-close="galleryDialog" aria-label="关闭全部素材">关闭</button>
+      </div>
+      <div class="gallery-filters" role="group" aria-label="按城市筛选素材">
+        <button class="is-selected" data-gallery-filter="全部">全部</button>
+        <button data-gallery-filter="禹州">禹州</button>
+        <button data-gallery-filter="上海">上海</button>
+        <button data-gallery-filter="香港">香港</button>
+        <button data-gallery-filter="广州">广州</button>
+        <button data-gallery-filter="哈尔滨">哈尔滨</button>
+        <button data-gallery-filter="作品">作业作品</button>
+      </div>
+      <div id="galleryGrid" class="gallery-grid" aria-live="polite"></div>
+    </div>
+    <div id="mediaViewer" class="media-viewer" hidden>
+      <button id="viewerClose" class="viewer-close" aria-label="关闭大图">关闭</button>
+      <button id="viewerPrevious" class="viewer-nav viewer-previous" aria-label="上一项">‹</button>
+      <div class="viewer-stage">
+        <div id="viewerMedia" class="viewer-media"></div>
+        <div class="viewer-caption">
+          <span id="viewerCity"></span>
+          <p id="viewerTitle"></p>
+          <b id="viewerCounter"></b>
+        </div>
+      </div>
+      <button id="viewerNext" class="viewer-nav viewer-next" aria-label="下一项">›</button>
+    </div>
+  </dialog>
+
+  <script src="media-manifest.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
