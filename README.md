@@ -1,2 +1,7 @@
-# wzh-aaa
-Summer Sharing Session
+# 四座城市里的艺术管理观察
+
+王子恒 2026 年暑期文化实践新生分享会交互式网页。
+
+公开页面：https://zieng-7111.github.io/wzh-aaa/
+
+操作：滚轮或方向键翻页，`G` 打开完整素材，`N` 查看讲稿，`F` 进入全屏。
